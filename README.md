@@ -1,6 +1,6 @@
 # Freshkite_Project
 
-Getting Started with the Frontend:
+## Getting Started with the Frontend:
 
 After cloning the repository, you need to follow these steps to set up and run the project:
 
@@ -39,5 +39,5 @@ Once the server is running, you can access the application in your browser at [h
    JWT_SECRET=your_jwt_secret_here 
 
 
-
+ 
 
